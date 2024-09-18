@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**aditisab/aditisab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aditi, a passionate engineer focused on **Communication Technology, Networking and Automation**. I enjoy solving real-world problems through innovative solutions.
 
-Here are some ideas to get you started:
+- 🔭 **Current Work**: Intern at **Ribbon Communications**, working on automation, SBC configurations, and VoIP call flows.
+- 🌟 **Previous Experience**: Intern at **5GIF**, where I contributed to the performance analysis of the satellite component of 5G, working alongside top industry experts.
+- 🔧 **Skills**: Networking protocols, networking, SIP, SIPp, SBCs, test automation, process automation, performance analysis, VoIP, SBCs, 5G, RIT, SRIT, and satellite communications
+- 🚀 **Looking for**: Opportunities to collaborate on projects that push the boundaries of network solutions and communication technologies.
+- 📫 **How to reach me**: [LinkedIn profile](https://www.linkedin.com/in/aditi-sabnis-206671236)
+  
+## 🛠️ Tech Stack:
+- **Languages**: Python, C, Bash
+- **Tools**: Git, Kubernetes, Linux, MATLAB
+- **Protocols & Technologies**: SIP, OSI model, wireless communication, RAN, SBCs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Current Learning:
+- Enhancing expertise in networks, automation and emerging technologies in communication systems.
